@@ -5,7 +5,7 @@
 **Caso:** FlashLogistics - El Caos de la Distribución  
 **Producto propuesto:** SmartRoute DSS  
 **Squad:** Cacatúas  
-**Integrantes del squad:**  Wilber Perez Subelza  
+**Integrantes del squad:**  Alex Saul Fernandez Valdez, Wilber Perez Subelza  
 **Presentación:** Individual  
 **Repositorio GitHub:** https://github.com/wilylobo1244/ACTIVIDAD-2-SDI2  
 **GitHub Project / Tablero Kanban:** https://github.com/users/wilylobo1244/projects/1
