@@ -5,7 +5,7 @@
 **Caso:** FlashLogistics - El Caos de la Distribución  
 **Producto propuesto:** SmartRoute DSS  
 **Squad:** Cacatúas  
-**Integrantes del squad:** Alex Saul Fernández Valdez; Wilber Perez Subelza  
+**Integrantes del squad:**  Wilber Perez Subelza  
 **Presentación:** Individual  
 **Repositorio GitHub:** https://github.com/wilylobo1244/ACTIVIDAD-2-SDI2  
 **GitHub Project / Tablero Kanban:** https://github.com/users/wilylobo1244/projects/1
@@ -25,8 +25,8 @@ El objetivo de esta Actividad 3 es transformar el Canvas MVP en un **Product Bac
 
 | Elemento                | Enlace                                                          |
 | ----------------------- | --------------------------------------------------------------- |
-| Repositorio GitHub      | https://github.com/Alex-Fernandez-2003/Actividad-2-SDI-II.git   |
-| Tablero GitHub Projects | https://github.com/users/Alex-Fernandez-2003/projects/1/views/1 |
+| Repositorio GitHub      | https://github.com/wilylobo1244/ACTIVIDAD-2-SDI2    |
+| Tablero GitHub Projects | https://github.com/users/wilylobo1244/projects/1 |
 
 ---
 
