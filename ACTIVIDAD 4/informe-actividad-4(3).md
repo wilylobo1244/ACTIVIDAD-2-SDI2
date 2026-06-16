@@ -7,8 +7,8 @@
 **Caso:** FlashLogistics - El Caos de la Distribución
 **Squad:** Cacatúas
 **Integrantes:** Alex Saul Fernández Valdez; Wilber Perez Subelza
-**Repositorio GitHub:** https://github.com/wilylobo1244/ACTIVIDAD-2-SDI2/blob/main/README.html
-**GitHub Project / Kanban:** https://github.com/wilylobo1244/ACTIVIDAD-2-SDI2/blob/main/README.html
+**Repositorio GitHub:**  https://github.com/wilylobo1244/ACTIVIDAD-2-SDI2/tree/main/ACTIVIDAD%204
+**GitHub Project / Kanban:** https://github.com/users/wilylobo1244/projects/1
 **Fecha:** 15 de junio de 2026
 
 ---
