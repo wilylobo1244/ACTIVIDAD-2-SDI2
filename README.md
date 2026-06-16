@@ -4,7 +4,7 @@
 **Producto propuesto:** SmartRoute DSS  
 **Squad:** Cacatúas
 **Integrantes:** Alex Saul Fernández Valdez; Wilber Perez Subelza
-**Repositorio GitHub:** <https://github.com/Alex-Fernandez-2003/Actividad-2-SDI-II.git>  
+**Repositorio GitHub:** https://github.com/wilylobo1244/ACTIVIDAD-2-SDI2/blob/main/README.md
 **Fecha:** 10 de junio de 2026
 
 ---
