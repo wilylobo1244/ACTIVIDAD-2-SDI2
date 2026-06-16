@@ -4,7 +4,7 @@
 **Caso:** FlashLogistics - El Caos de la Distribución
 **Squad:** Cacatúas
 **Integrantes:** Alex Saul Fernández Valdez; Wilber Perez Subelza
-**Repositorio:** https://github.com/wilylobo1244/ACTIVIDAD-2-SDI2/edit/main/ACTIVIDAD%204/dor-y-refinamiento(1).md
+**Repositorio:** https://github.com/wilylobo1244/ACTIVIDAD-2-SDI2/tree/main/ACTIVIDAD%204
 **GitHub Project / Kanban:** https://github.com/users/wilylobo1244/projects/1
 
 ---
