@@ -3,7 +3,7 @@
 **Proyecto:** SmartRoute DSS  
 **Caso:** FlashLogistics - El Caos de la Distribución  
 **Squad:** Cacatúas  
-**Repositorio:** https://github.com/Alex-Fernandez-2003/Actividad-2-SDI-II.git
+**Repositorio:**  https://github.com/wilylobo1244/ACTIVIDAD-2-SDI2/tree/main/ACTIVIDAD_5
 
 ---
 
