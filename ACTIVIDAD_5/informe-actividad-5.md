@@ -7,8 +7,8 @@
 **Caso:** FlashLogistics - El Caos de la Distribución  
 **Squad:** Cacatúas  
 **Integrantes:** Alex Saul Fernández Valdez; Wilber Perez Subelza  
-**Repositorio GitHub:** https://github.com/Alex-Fernandez-2003/Actividad-2-SDI-II.git  
-**GitHub Project / Kanban:** https://github.com/users/Alex-Fernandez-2003/projects/1/views/1  
+**Repositorio GitHub:** https://github.com/wilylobo1244/ACTIVIDAD-2-SDI2/tree/main/ACTIVIDAD_5  
+**GitHub Project / Kanban:** https://github.com/users/wilylobo1244/projects/1  
 **Fecha:** 16 de junio de 2026
 
 ---
@@ -34,8 +34,8 @@ Por ello, esta actividad transforma el refinamiento de historias de usuario y lo
 
 | Elemento                | Enlace                                                          |
 | ----------------------- | --------------------------------------------------------------- |
-| Repositorio GitHub      | https://github.com/Alex-Fernandez-2003/Actividad-2-SDI-II.git   |
-| GitHub Project / Kanban | https://github.com/users/Alex-Fernandez-2003/projects/1/views/1 |
+| Repositorio GitHub      |https://github.com/wilylobo1244/ACTIVIDAD-2-SDI2/tree/main/ACTIVIDAD_5    |
+| GitHub Project / Kanban | https://github.com/users/wilylobo1244/projects/1  |
 | Carpeta de modelos      | `capturas/`                                                     |
 | Script SQL inicial      | `database/script-SQL.sql`                                       |
 
