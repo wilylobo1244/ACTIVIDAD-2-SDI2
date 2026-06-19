@@ -1,0 +1,45 @@
+flowchart TB
+    style root fill:#f7fbff,stroke:#0366d6,stroke-width:4
+    root["SmartSales DSS"]
+
+    style p1 fill:#e9f2ff,stroke:#0366d6,stroke-width:3
+    p1["Gestión de Productos\n e Inventario"]
+    style p2 fill:#f8f1f1,stroke:#d73a49,stroke-width:3
+    p2["Control de Ventas y Stock\n en Tiempo Real"]
+    style p3 fill:#e7f7e7,stroke:#28a745,stroke-width:3
+    p3["Dashboard Analítico\n para la Decisión"]
+
+    root --> p1
+    root --> p2
+    root --> p3
+
+    style s11 fill:#ffffff,stroke:#0366d6,stroke-width:2
+    s11["Registro y edición\n de productos"]
+    style s12 fill:#ffffff,stroke:#0366d6,stroke-width:2
+    s12["Categorías y precios"]
+    style s13 fill:#ffffff,stroke:#0366d6,stroke-width:2
+    s13["Control de stock\n automático"]
+
+    style s21 fill:#ffffff,stroke:#d73a49,stroke-width:2
+    s21["Procesamiento de ventas"]
+    style s22 fill:#ffffff,stroke:#d73a49,stroke-width:2
+    s22["Validación\n transaccional"]
+    style s23 fill:#ffffff,stroke:#d73a49,stroke-width:2
+    s23["Actualización\n en tiempo real"]
+
+    style s31 fill:#ffffff,stroke:#28a745,stroke-width:2
+    s31["Top productos\n y tendencias"]
+    style s32 fill:#ffffff,stroke:#28a745,stroke-width:2
+    s32["Alertas de stock\n crítico"]
+    style s33 fill:#ffffff,stroke:#28a745,stroke-width:2
+    s33["Reportes\n descargables"]
+
+    p1 --> s11
+    p1 --> s12
+    p1 --> s13
+    p2 --> s21
+    p2 --> s22
+    p2 --> s23
+    p3 --> s31
+    p3 --> s32
+    p3 --> s33

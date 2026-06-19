@@ -1,0 +1,45 @@
+flowchart LR
+    style root fill:#f7fbff,stroke:#0366d6,stroke-width:4
+    root["SmartSales DSS"]
+
+    style p1 fill:#e9f2ff,stroke:#0366d6,stroke-width:3
+    p1["Gestión de Productos e Inventario"]
+    style p2 fill:#f8f1f1,stroke:#d73a49,stroke-width:3
+    p2["Control de Ventas y Stock en Tiempo Real"]
+    style p3 fill:#e7f7e7,stroke:#28a745,stroke-width:3
+    p3["Dashboard Analítico para la Decisión"]
+
+    root --> p1
+    root --> p2
+    root --> p3
+
+    style s1 fill:#ffffff,stroke:#0366d6,stroke-width:2
+    s1["Registro y edición\n de productos"]
+    style s2 fill:#ffffff,stroke:#0366d6,stroke-width:2
+    s2["Categorías y precios"]
+    style s3 fill:#ffffff,stroke:#0366d6,stroke-width:2
+    s3["Control de stock\n automático"]
+
+    style s4 fill:#ffffff,stroke:#d73a49,stroke-width:2
+    s4["Procesamiento de ventas"]
+    style s5 fill:#ffffff,stroke:#d73a49,stroke-width:2
+    s5["Validación transaccional"]
+    style s6 fill:#ffffff,stroke:#d73a49,stroke-width:2
+    s6["Actualización en tiempo real"]
+
+    style s7 fill:#ffffff,stroke:#28a745,stroke-width:2
+    s7["Top productos y\n tendencias"]
+    style s8 fill:#ffffff,stroke:#28a745,stroke-width:2
+    s8["Alertas de stock\n crítico"]
+    style s9 fill:#ffffff,stroke:#28a745,stroke-width:2
+    s9["Reportes\n descargables"]
+
+    p1 --> s1
+    p1 --> s2
+    p1 --> s3
+    p2 --> s4
+    p2 --> s5
+    p2 --> s6
+    p3 --> s7
+    p3 --> s8
+    p3 --> s9
