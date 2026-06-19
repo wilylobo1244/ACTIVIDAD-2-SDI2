@@ -9,7 +9,7 @@
 ### Integrantes
 
 - Wilber Perez Subelza
-- Integrante 2
+- Alex Saul Fernández Valdez
 
 ### Repositorio GitHub
 
