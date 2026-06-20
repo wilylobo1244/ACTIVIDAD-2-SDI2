@@ -5,8 +5,8 @@
 **Sistema de Apoyo a la Decisión para Ventas Minoristas**  
 **Squad:** Cacatúas  
 **Integrantes:** Alex Saul Fernández Valdez; Wilber Perez Subelza  
-**Repositorio GitHub:**  
-**GitHub Project / Kanban:** 
+**Repositorio GitHub:**  https://github.com/wilylobo1244/ACTIVIDAD-2-SDI2/tree/main/ACTIVIDAD_6
+**GitHub Project / Kanban:** https://github.com/wilylobo1244/ACTIVIDAD-2-SDI2/
 
 ---
 
